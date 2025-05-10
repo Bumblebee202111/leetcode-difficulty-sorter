@@ -24,7 +24,7 @@ A base score from LeetCode's difficulty is modified by weighted factors like acc
 
 ## Setup & Usage
 
-1.  **Clone:** `git clone https://github.com/Bumblebee202111/leetcode-difficulty-sorter.git && cd YOUR_REPOSITORY_NAME`
+1.  **Clone:** `git clone https://github.com/Bumblebee202111/leetcode-difficulty-sorter.git && cd leetcode-difficulty-sorter`
 2.  **Install:** `pip install requests`
 3.  **Run:** `python leetcode_sorter.py`
 
